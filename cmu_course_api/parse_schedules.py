@@ -1,3 +1,5 @@
+import sys
+
 '''
 parse_schedules.py
 Andrew Benson
