@@ -7,6 +7,7 @@
 # @since 2015-04-07
 
 import json
+import sys
 import os.path
 from datetime import date
 from cmu_course_api.parse_descs import get_course_desc
